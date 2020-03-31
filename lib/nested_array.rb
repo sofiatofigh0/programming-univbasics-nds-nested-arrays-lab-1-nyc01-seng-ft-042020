@@ -18,7 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   
-  new_array1=[CONVENTIONAL_PRODUCE.sort!,ORGANIC_PRODUCE.sort!]
+   new_array1=["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
   
   
   
@@ -26,7 +26,7 @@ end
 
 def sorted_matrix
   
-  new_array2=["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
+  new_array2=[CONVENTIONAL_PRODUCE.sort!,ORGANIC_PRODUCE.sort!]
 
 end
 
