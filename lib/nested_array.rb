@@ -18,7 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   
-   new_array1=["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
+   new_array1=[ "Grapefruit","Pineapple","Oranges","Watermelon", "Eggplant"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
   
   
   
