@@ -26,7 +26,7 @@ end
 
 def sorted_matrix
   
-  new_array2=[CONVENTIONAL_PRODUCE.sort!,ORGANIC_PRODUCE.sort!]
+  new_array2=[CONVENTIONAL_PRODUCE.sort,ORGANIC_PRODUCE.sort]
 
 end
 
